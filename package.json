@@ -22,10 +22,10 @@
     "vite": "^6.1.0"
   },
   "dependencies": {
-    "swiper": "^11.2.2"
+    "swiper": "^11.2.2",
+    "three": "^0.174.0"
   },
   "lint-staged": {
-  "*.js": "eslint --fix"
-}
-
+    "*.js": "eslint --fix"
+  }
 }
